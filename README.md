@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Brk</h1>
 <h3 align="center">Hello, my name is Burak. I am 15 years old. I started software development 7 months ago by developing Discord bots. I am currently trying to learn languages ​​such as html, javascript, css.</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=brqdev&label=Profile%20views&color=0e75b6&style=flat" alt="twenzyy" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=brkkdev&label=Profile%20views&color=0e75b6&style=flat" alt="brkkdev" /> </p>
 
 <h1 align="center">⚡ Connect with me:</h1>
 <p align="center">
