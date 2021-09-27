@@ -12,12 +12,6 @@
   
 </p>
 
-<h1 align="center">💻 Technologies I Use:</h1>
-<p align="center">
-<a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/-Javascript-edb200?style=blue&amp;logo=javascript&amp;logoColor=white" style="max-width:100%;"></a>
-<a href="#"><img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=blue&amp;logo=html5&amp;logoColor=white" style="max-width:100%;"></a>
-<a href="#"><img alt="CSS" src="https://img.shields.io/badge/-CSS3-264de4?style=blue&amp;logo=css3&amp;logoColor=white" style="max-width:100%;"></a>
-
 
 
   </p>
