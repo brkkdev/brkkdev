@@ -7,8 +7,8 @@
 <p align="center">
 <a href="https://discord.com/users/779975215580971049"><img src="https://shields.io/badge/brk-111111.svg?&amp;style=for-the-badge&amp;logo=discord" style="max-width:100%;"></a>
 <a href="https://github.com/brkkdev"><img src="https://shields.io/badge/brkkdev-111111.svg?&amp;style=for-the-badge&amp;logo=github" style="max-width:100%;"></a>
-<a href="https://instagram.com/buraqprlk"><img src="https://shields.io/badge/lnaburak-111111.svg?&amp;style=for-the-badge&amp;logo=instagram" style="max-width:100%;"></a>
-<a href="https://discord.gg/dontcry"><img src="https://shields.io/badge/My Discord Server-111111.svg?&amp;style=for-the-badge&amp;" style="max-width:100%;"></a>
+<a href="https://instagram.com/buraakp"><img src="https://shields.io/badge/buraakp-111111.svg?&amp;style=for-the-badge&amp;logo=instagram" style="max-width:100%;"></a>
+<a href="https://discord.gg/bqdz7YK2vZ"><img src="https://shields.io/badge/My Discord Server-111111.svg?&amp;style=for-the-badge&amp;" style="max-width:100%;"></a>
   
 </p>
 
